@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:trim_checker"
         mc:Ignorable="d"
-        Title="Trim Checker" Height="350" Width="525" ResizeMode="NoResize">
+        Title="Trim Checker" Height="350" Width="525" ResizeMode="NoResize" Icon="icons/ssd.png">
     <Grid>
         <Button x:Name="button_check" Content="Check Trim status" HorizontalAlignment="Left" Click="Button_check_OnClick" Margin="41,15,0,0" VerticalAlignment="Top" Width="172" Height="70"/>
         <Button x:Name="button_enable" Content="Enable Trim" HorizontalAlignment="Left" Click="Button_enable_OnClick" Margin="41,120,0,0" VerticalAlignment="Top" Width="172" Height="70"/>
